@@ -1,2 +1,3 @@
 # hellow_world
-My first repository
+My first repository:
+This is my very first repository
